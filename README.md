@@ -9,3 +9,7 @@ Server game files can be uploaded to (https://github.com/jamespohalloran/minerme
 
 ### Steam inventory files
 Steam inventory images can be uploaded to (https://github.com/jamespohalloran/minermeltdown-landing/tree/gh-pages/wp-content/uploads/Miner)
+
+### Mailing 
+The mailing list form can be update at: https://github.com/jamespohalloran/minermeltdown-landing/blob/gh-pages/index.html
+The current form adds users to Mighty Pebble Games mailing list.
